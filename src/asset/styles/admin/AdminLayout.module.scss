@@ -1,0 +1,27 @@
+.adminLayout {
+  background: url(../../images/bg-admin.avif);
+  background-size: cover;
+  display: flex;
+  height: 100vh;
+  padding: 20px 15px;
+}
+
+// .sidebar {
+//   width: 150px;
+
+//   box-sizing: border-box;
+//   color: #d74175;
+//   color: #fff;
+//   transition: all 0.3s;
+//   border-radius: 10px 10px;
+//   padding: 5px 10px;
+//   min-height: 90vh;
+//   text-align: center;
+// }
+
+.mainContent {
+  flex: 1;
+  padding: 20px;
+  background-color: #ecf0f1;
+  overflow-y: auto;
+}

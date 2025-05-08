@@ -1,0 +1,185 @@
+.titleDetailCourse {
+  padding: 50px;
+  text-transform: uppercase;
+  background-color: #41b294;
+  color: #fff;
+  text-align: left;
+}
+.titleDetailCourse h3 {
+  font-size: 30px;
+  font-weight: 500;
+}
+.titleDetailCourse p {
+  font-size: 13px;
+}
+
+.detailCourseInfo {
+  display: flex;
+  padding: 5px;
+  align-items: center;
+}
+.detailCourseInfo img {
+  height: 50px;
+  width: 50px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 50%;
+}
+.detailCourseInfo p:first-of-type {
+  color: #8c8c8c;
+}
+.detailCourseInfo p {
+  margin: 0;
+}
+.detailCourseInfo i {
+  font-size: 35px;
+  color: #d74175;
+}
+.detailCourseInfo .reviewDetail {
+  text-align: right;
+}
+.detailCourseInfo .reviewDetail span {
+  font-weight: 600;
+}
+.detailCourseInfo .reviewDetail i {
+  font-size: 20px;
+  color: #f6ba35;
+}
+
+.textDiscripts {
+  color: #8c8c8c;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #d0d0d0;
+  text-align: justify;
+}
+
+.boxCourseLearn {
+  padding: 20px 0;
+}
+.boxCourseLearn h6 {
+  padding: 10px 0;
+  font-size: 20px;
+}
+.boxCourseLearn li {
+  padding: 5px 0;
+  text-align: justify;
+}
+.boxCourseLearn li i {
+  margin-right: 5px;
+  color: #f6ba35;
+}
+.boxCourseLearn li a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.courseContent h6 {
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.courseContent .courseDetailContent {
+  padding: 20px 0;
+}
+.courseContent .courseDetailContent .sectionCourse {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: hsla(0, 0%, 86.3%, 0.1411764706);
+}
+.courseContent .courseDetailContent .sectionCourse span {
+  text-transform: uppercase;
+  font-size: 22px;
+  font-weight: 400;
+  margin-right: 20px;
+}
+.courseContent .courseDetailContent .sectionCourse .btnPreview {
+  padding: 5px;
+  background-color: transparent;
+  border: 1px solid #41b294;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #41b294;
+  transition: all 0.5s;
+}
+.courseContent .courseDetailContent p {
+  padding: 0 10px;
+}
+.courseContent .courseDetailContent .lessonContent {
+  margin-top: 10px;
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 1px 1px 2px 1px rgba(239, 244, 190, 0.27);
+}
+.courseContent .courseDetailContent .lessonContent span {
+  color: #8c8c8c;
+}
+.courseContent .courseDetailContent .lessonContent span i {
+  margin-right: 10px;
+  color: #d74175;
+}
+
+.btnPreview:hover {
+  background-color: #41b294 !important;
+  color: #fff !important;
+}
+
+.sideBarCourseDetail {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 15px;
+  padding: 10px 30px;
+  box-shadow: 1px 1px 10px 4px #dadada;
+}
+.sideBarCourseDetail .coursePrice {
+  padding: 30px 0;
+  text-align: right;
+}
+.sideBarCourseDetail .coursePrice p {
+  font-weight: 500;
+  font-size: 25px;
+}
+.sideBarCourseDetail .coursePrice p i {
+  margin-right: 10px;
+  color: #f6ba35;
+}
+.sideBarCourseDetail .btnPreview {
+  padding: 10px;
+  background-color: transparent;
+  border: 1px solid #41b294;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #41b25d;
+  border-radius: 10px;
+}
+.sideBarCourseDetail .sideBarDetailContent ul li {
+  display: flex;
+  align-items: center;
+  padding: 20px 0;
+  justify-content: space-between;
+  border-bottom: 1px solid #f2f1f1;
+}
+.sideBarCourseDetail .sideBarDetailContent ul li p {
+  color: #8c8c8c;
+}
+.sideBarCourseDetail .sideBarDetailContent ul li p span {
+  color: #252525;
+  font-weight: 500;
+}
+.sideBarCourseDetail .sideBarDetailContent ul li i {
+  font-size: 20px;
+  color: #d74175;
+}
+.sideBarCourseDetail .formCoupon {
+  padding: 20px 0;
+}
+.sideBarCourseDetail .formCoupon input {
+  width: 100%;
+  outline: none;
+  padding: 3px 10px;
+  border: 1px solid #d0d0d0;
+}/*# sourceMappingURL=DetailPage.module.css.map */

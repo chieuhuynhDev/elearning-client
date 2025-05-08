@@ -1,0 +1,153 @@
+.titleClasses {
+  padding: 50px;
+  text-transform: uppercase;
+  background-color: #41b294;
+  color: #fff;
+  text-align: left;
+}
+.titleClasses h3 {
+  font-size: 30px;
+  font-weight: 500;
+}
+.titleClasses p {
+  font-size: 13px;
+}
+
+.classesContainer {
+  padding: 50px;
+}
+.classesContainer .classesBoxItem {
+  padding: 0;
+}
+.classesContainer .classesBoxItem .classesBox1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  text-transform: uppercase;
+  height: 100%;
+  padding: 30px 20px;
+  text-align: center;
+  background-color: #264653;
+}
+.classesContainer .classesBoxItem .classesBox1 h6 {
+  padding-bottom: 10px;
+  font-weight: 600;
+}
+.classesContainer .classesBoxItem .classesBox1 i {
+  font-size: 30px;
+}
+.classesContainer .classesBoxItem .classesBox1 p {
+  font-size: 20px;
+}
+.classesContainer .classesBoxItem .classesBox3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  text-transform: uppercase;
+  height: 100%;
+  padding: 30px 50px;
+  text-align: center;
+  background-color: #e9c46a;
+}
+.classesContainer .classesBoxItem .classesBox3 h6 {
+  padding-bottom: 10px;
+  font-weight: 600;
+}
+.classesContainer .classesBoxItem .classesBox3 i {
+  font-size: 30px;
+}
+.classesContainer .classesBoxItem .classesBox3 p {
+  font-size: 20px;
+}
+.classesContainer .classesBoxItem .classesBox4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  text-transform: uppercase;
+  height: 100%;
+  padding: 30px 60px;
+  text-align: center;
+  background-color: #f4a261;
+}
+.classesContainer .classesBoxItem .classesBox4 h6 {
+  padding-bottom: 10px;
+  font-weight: 600;
+}
+.classesContainer .classesBoxItem .classesBox4 i {
+  font-size: 30px;
+}
+.classesContainer .classesBoxItem .classesBox4 p {
+  font-size: 20px;
+}
+.classesContainer .classesBoxItem .classesBox5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  text-transform: uppercase;
+  height: 100%;
+  padding: 30px 70px;
+  text-align: center;
+  background-color: #ee8959;
+}
+.classesContainer .classesBoxItem .classesBox5 h6 {
+  padding-bottom: 10px;
+  font-weight: 600;
+}
+.classesContainer .classesBoxItem .classesBox5 i {
+  font-size: 30px;
+}
+.classesContainer .classesBoxItem .classesBox5 p {
+  font-size: 20px;
+}
+.classesContainer .classesBoxItem .classesBox6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  text-transform: uppercase;
+  height: 100%;
+  padding: 30px 60px;
+  text-align: center;
+  background-color: #e76f51;
+}
+.classesContainer .classesBoxItem .classesBox6 h6 {
+  padding-bottom: 10px;
+  font-weight: 600;
+}
+.classesContainer .classesBoxItem .classesBox6 i {
+  font-size: 30px;
+}
+.classesContainer .classesBoxItem .classesBox6 p {
+  font-size: 20px;
+}
+.classesContainer .classesBox2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  text-transform: uppercase;
+  height: 100%;
+  padding: 30px 40px;
+  text-align: center;
+  background-color: #2a9d8f;
+}
+.classesContainer .classesBox2 h6 {
+  padding-bottom: 10px;
+  font-weight: 600;
+}
+.classesContainer .classesBox2 i {
+  font-size: 30px;
+}
+.classesContainer .classesBox2 p {
+  font-size: 20px;
+}/*# sourceMappingURL=course-all.module.css.map */
